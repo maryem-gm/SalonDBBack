@@ -1,0 +1,15 @@
+
+O
+java:S1116$"Remove this empty statement.(æ°ÆÙ8¹ñ•Èð/H±RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ÑŒîØùÿÿÿÿ8¹çûÃð/H³RMAJORZ
+CODE_SMELL
+O
+java:S11162"Remove this empty statement.(æ°ÆÙ8¹ñ•Èð/H´RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ÒúêÁúÿÿÿÿ8¹çûÃð/H¶RMAJORZ
+CODE_SMELL
+ƒ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æþï½8¹çûÃð/H·RMINORZ
+CODE_SMELL
+ˆ	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½þý™úÿÿÿÿ8¹çûÃð/H¸RMINORZ
+CODE_SMELL

@@ -1,0 +1,21 @@
+
+•
+java:S1488>"]Immediately return this expression instead of assigning it to the temporary variable "offre".(¤É×Ôþÿÿÿÿ8ëÄÛžï/H±RMINORZ
+CODE_SMELL
+Ž
+java:S1488)"]Immediately return this expression instead of assigning it to the temporary variable "offre".(Ï’åÅúÿÿÿÿH¼RMINORZ
+CODE_SMELL
+‰
+java:S14881"]Immediately return this expression instead of assigning it to the temporary variable "offre".(Ë¼ÐÖH´RMINORZ
+CODE_SMELL
+s	java:S125:"<This block of commented-out lines of code should be removed.(º‘¡Ñüÿÿÿÿ8ëÄÛžï/H°RMAJORZ
+CODE_SMELL
+‰
+java:S1488""]Immediately return this expression instead of assigning it to the temporary variable "offre".(ýµÔ¯H¸RMINORZ
+CODE_SMELL
+w
+java:S4684!"@Replace this persistent entity with a simple POJO or DTO object.(ÍÎÓäþÿÿÿÿH¯RCRITICALZVULNERABILITY
+r
+java:S4684("@Replace this persistent entity with a simple POJO or DTO object.(Ž«¤ÝH·RCRITICALZVULNERABILITY
+l	java:S1254"<This block of commented-out lines of code should be removed.(›à“ÿÿÿÿÿH»RMAJORZ
+CODE_SMELL

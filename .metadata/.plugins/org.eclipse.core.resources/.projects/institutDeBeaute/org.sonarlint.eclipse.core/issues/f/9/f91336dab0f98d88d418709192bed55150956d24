@@ -1,0 +1,11 @@
+
+y
+java:S4684."@Replace this persistent entity with a simple POJO or DTO object.(·îè¨8ô°¿Âð/H¬RCRITICALZVULNERABILITY
+y
+java:S4684*"@Replace this persistent entity with a simple POJO or DTO object.(Å©¤§8ô°¿Âð/H­RCRITICALZVULNERABILITY
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¯ŸÓÚúÿÿÿÿ8Ï¨ÁÁð/H®RMAJORZ
+CODE_SMELL
+ƒ	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å©¤§8Ð¨ÁÁð/H¯RMINORZ
+CODE_SMELL
+ƒ	java:S117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·îè¨8Ð¨ÁÁð/H°RMINORZ
+CODE_SMELL

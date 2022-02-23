@@ -1,0 +1,72 @@
+package com.beaute.spring.entity;
+
+import java.io.Serializable;
+import java.util.Date;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.Table;
+
+@Entity
+@Table(name="T_Tarif")
+
+public class Tarif implements Serializable{
+
+private static final long serialVersionUID = 1L;
+	
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	private long id;
+	
+	@Column(name="LIBELLE")
+	private String libellé;
+	@Column(name="TYPE")
+	private String type;
+	@Column(name="PRIX")
+	private String prix;
+	public long getId() {
+		return id;
+	}
+	public void setId(long id) {
+		this.id = id;
+	}
+	public String getLibellé() {
+		return libellé;
+	}
+	public void setLibellé(String libellé) {
+		this.libellé = libellé;
+	}
+	public String getType() {
+		return type;
+	}
+	public void setType(String type) {
+		this.type = type;
+	}
+	public String getPrix() {
+		return prix;
+	}
+	public void setPrix(String prix) {
+		this.prix = prix;
+	}
+	public static long getSerialversionuid() {
+		return serialVersionUID;
+	}
+	@Override
+	public String toString() {
+		return "Tarif [id=" + id + ", libellé=" + libellé + ", type=" + type + ", prix=" + prix + "]";
+	}
+	
+	public Tarif(long id, String libellé, String type, String prix) {
+		super();
+		this.id = id;
+		this.libellé = libellé;
+		this.type = type;
+		this.prix = prix;
+	}
+	
+	
+	
+}

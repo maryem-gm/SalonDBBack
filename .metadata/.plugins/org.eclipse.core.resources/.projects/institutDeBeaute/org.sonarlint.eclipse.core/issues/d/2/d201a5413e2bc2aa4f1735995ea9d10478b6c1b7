@@ -1,0 +1,16 @@
+
+–
+java:S1488%"cImmediately return this expression instead of assigning it to the temporary variable "reservation".(¥²ýÆ8¼Å¢¨ï/H’RMINORZ
+CODE_SMELL
+~
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(¸ÕÂ·üÿÿÿÿ8¼Å¢¨ï/HšRCRITICALZVULNERABILITY
+n	java:S1250"<This block of commented-out lines of code should be removed.(æ©áó8¼Å¢¨ï/HœRMAJORZ
+CODE_SMELL
+y
+java:S4684$"@Replace this persistent entity with a simple POJO or DTO object.(—«ƒÆ8¼Å¢¨ï/H›RCRITICALZVULNERABILITY
+›
+java:S1488"cImmediately return this expression instead of assigning it to the temporary variable "reservation".(ž¼ã¡ÿÿÿÿÿ8¼Å¢¨ï/HRMINORZ
+CODE_SMELL
+›
+java:S1488-"cImmediately return this expression instead of assigning it to the temporary variable "reservation".(ü²•‘øÿÿÿÿ8¼Å¢¨ï/H—RMINORZ
+CODE_SMELL

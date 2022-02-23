@@ -1,0 +1,10 @@
+
+_
+java:S1905)"'Remove this unnecessary cast to "List".(»”“Ρÿÿÿÿÿ8Α½£θρ/H«RMINORZ
+CODE_SMELL
+s
+java:S1128
+";Remove this unused import 'com.beaute.spring.entity.Offre'.(δΪΌώÿÿÿÿ8‘ƒ§•ς/HβRMINORZ
+CODE_SMELL
+
+java:S36552"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(νήÒΫώÿÿÿÿ8‘ƒ§•ς/HδRMAJORZBUG

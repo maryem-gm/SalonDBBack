@@ -1,0 +1,20 @@
+
+n	java:S1254"<This block of commented-out lines of code should be removed.(ì†¸»8ğñ»èñ/HÎRMAJORZ
+CODE_SMELL
+~
+java:S4684!"@Replace this persistent entity with a simple POJO or DTO object.(–¤”Ìüÿÿÿÿ8ğñ»èñ/HÍRCRITICALZVULNERABILITY
+
+java:S1488""]Immediately return this expression instead of assigning it to the temporary variable "tarif".(ì‘
+8ğñ»èñ/HÓRMINORZ
+CODE_SMELL
+
+java:S1488="]Immediately return this expression instead of assigning it to the temporary variable "tarif".(Àÿ‹·8‘ƒ§•ò/HŞRMINORZ
+CODE_SMELL
+
+java:S1488)"]Immediately return this expression instead of assigning it to the temporary variable "tarif".(Ş‰¡à8ğñ»èñ/HÖRMINORZ
+CODE_SMELL
+~
+java:S4684("@Replace this persistent entity with a simple POJO or DTO object.(ì­İ÷ûÿÿÿÿ8ğñ»èñ/HÌRCRITICALZVULNERABILITY
+s
+java:S1128";Remove this unused import 'com.beaute.spring.entity.Offre'.(äÚŸ¼şÿÿÿÿ8³ì§•ò/HìRMINORZ
+CODE_SMELL

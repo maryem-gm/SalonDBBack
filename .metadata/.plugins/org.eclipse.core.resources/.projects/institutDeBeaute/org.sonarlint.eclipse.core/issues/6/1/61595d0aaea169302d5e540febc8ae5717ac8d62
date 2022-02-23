@@ -1,0 +1,16 @@
+
+—
+java:S1488"_Immediately return this expression instead of assigning it to the temporary variable "contact".(‹ñâßúÿÿÿÿ8¶ö³©ï/HþRMINORZ
+CODE_SMELL
+‘
+java:S1488%"_Immediately return this expression instead of assigning it to the temporary variable "contact".(Ö”öA8¶ö³©ï/H‚RMINORZ
+CODE_SMELL
+s	java:S1250"<This block of commented-out lines of code should be removed.(Ø¤­¥ýÿÿÿÿ8¶ö³©ï/H‰RMAJORZ
+CODE_SMELL
+’
+java:S1488-"_Immediately return this expression instead of assigning it to the temporary variable "contact".(òÚ’8¶ö³©ï/H…RMINORZ
+CODE_SMELL
+y
+java:S4684$"@Replace this persistent entity with a simple POJO or DTO object.(Ä«Œ±8¶ö³©ï/HˆRCRITICALZVULNERABILITY
+~
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(¸¯³–úÿÿÿÿ8¶ö³©ï/HRCRITICALZVULNERABILITY

@@ -1,0 +1,60 @@
+package com.beaute.spring.entity;
+
+import java.io.Serializable;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.Table;
+import javax.validation.constraints.Email;
+import javax.validation.constraints.NotBlank;
+import javax.validation.constraints.Size;
+
+import javax.persistence.UniqueConstraint;
+
+
+@Entity
+@Table(	name = "user", 
+		uniqueConstraints = { 
+			@UniqueConstraint(columnNames = "username"),
+			@UniqueConstraint(columnNames = "email") 
+		})
+
+public class User implements Serializable {
+private static final long serialVersionUID = 1L;
+	
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	private long id;
+	
+
+	@NotBlank
+	@Size(max = 20)
+	private String username;
+
+	@NotBlank
+	@Size(max = 50)
+	@Email
+	private String email;
+
+	@NotBlank
+	@Size(max = 120)
+	private String password;
+	
+	@Column(name="First_Name")
+	private String firstName;
+	
+	@Column(name="Last_Name")
+	private String lastName;
+	
+	@Column(name="Role")
+	private String role;
+	
+	private boolean isActive;
+	
+	
+	
+
+}

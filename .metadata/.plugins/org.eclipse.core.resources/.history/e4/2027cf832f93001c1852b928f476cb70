@@ -1,0 +1,5 @@
+package com.beaute.spring.repository;
+
+public interface TarifRepository {
+
+}
